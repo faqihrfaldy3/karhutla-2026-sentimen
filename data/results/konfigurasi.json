@@ -1,0 +1,10 @@
+{
+ "model_terpilih": {
+  "sent": "IndoBERT",
+  "target": "TF-IDF + LR"
+ },
+ "bert_dipakai": "indolem/indobertweet-base-uncased",
+ "epochs": 4,
+ "lr": 3e-05,
+ "seed": 0
+}
